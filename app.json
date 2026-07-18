@@ -1,0 +1,17 @@
+{
+  "name": "Smart Study Generator Agent",
+  "version": "1.0.0",
+  "description": "An AI-powered study assistant that generates summaries, quizzes, flashcards, concept explanations, and personalized study plans using IBM watsonx.ai, IBM Granite Models, LangFlow, and RAG.",
+  "domain": "Education",
+  "author": "Payal Kadam",
+  "technologies": [
+    "IBM Cloud",
+    "IBM watsonx.ai",
+    "IBM Granite Models",
+    "IBM LangFlow",
+    "RAG",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ]
+}
